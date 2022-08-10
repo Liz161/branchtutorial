@@ -12,3 +12,5 @@ the file is on local un-traced stage
 the file is on staged to be committed
 the file is on stage committed
 git log
+3 times change and for each of them git commit -am changeX
+git log --oneline
