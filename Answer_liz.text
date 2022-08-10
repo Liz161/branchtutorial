@@ -1,1 +1,8 @@
 Answers
+Exersize 1
+mkdir Folder 1
+git init
+git ls -al
+Short File >> Short_File.text
+git status
+the file is on local un-traced stage
