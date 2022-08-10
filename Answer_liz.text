@@ -11,3 +11,4 @@ the file is on stage committed
 the file is on local un-traced stage
 the file is on staged to be committed
 the file is on stage committed
+git log
